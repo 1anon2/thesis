@@ -8,7 +8,7 @@ __pycache__/
 
 .idea
 MulTweEmo
-twint_images3
+input/img-emo/twint_images3
 
 # Distribution / packaging
 .Python
